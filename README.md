@@ -1,1 +1,1 @@
-# jandk-wedding-ph
+# jandk-wedding-ph for website subdomain
